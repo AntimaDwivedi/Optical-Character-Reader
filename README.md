@@ -7,7 +7,9 @@ a photo of a document or from subtitle text superimposed on a image.<br>
 <b>•</b>The scanned image is analyzed for light and dark areas are identified as characters that need to be recognized and light areas are identified as background<br>
 Pattern recognition and feature detection are done by OCR.<br>
 <b>Requirements:</b> PyTesseract <br>
-<b>QuickStart</b>  The application can be run by simply executing main.py
+<b>QuickStart</b>  The application can be run by simply executing opticalCharacterRecognition.py .
+
+
 
 
 
